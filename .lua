@@ -284,7 +284,7 @@
 
 
 local bannedUsernames = {
-    "",
+    "EthanCanSmash",
     "username2",
     "baduser",
 }
